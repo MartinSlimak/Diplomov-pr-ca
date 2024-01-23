@@ -1,7 +1,3 @@
-# Diplomova_praca
-
-
-
 # Diplomová práca
 
 ## Popis diplomovej práce
