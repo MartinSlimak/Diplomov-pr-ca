@@ -14,7 +14,6 @@ Z diplomovej práce mám napísanú úvodnú kapitolu aj návrh riešenia. Oprav
 
 * [Diplomová práca PDF](main.pdf)
 * [Predobhajoba](predobhajoba_slimak.pptx)
-* [Obrázky a výsledky](obr_vysledky.jpg)
 * [Zdroj 1](https://www.example.com/source1)
 * [Zdroj 2](https://www.example.com/source2)
 * [Zdroj 3](https://www.example.com/source3)
