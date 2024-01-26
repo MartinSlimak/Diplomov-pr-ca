@@ -8,7 +8,7 @@ V mojej diplomovej práci sa zameriavam na prepojenie globálnej a lokálnej map
 
 ## Priebežný postup
 
-Z diplomovej práce mám napísanú úvodnú kapitolu aj návrh riešenia. Opravili sme pôvodnú lokálnu mapu. Program je implementovaný do robota a ladí sa len v interiéri z dôvodu nepriaznivého počasia a technických komplikacií. Je navrhnutý 3D model ktorý bude slúžiť ako držiak pre kameru Zed mini.
+Z diplomovej práce mám napísanú úvodnú kapitolu aj návrh riešenia. Opravili sme pôvodnú lokálnu mapu. Program je implementovaný do robota a ladí sa len v interiéri z dôvodu nepriaznivého počasia a technických komplikacií. Kamera Zed mini je úspešne odtestovaná a komunikácia medzi kamerou a robotom funguje.
 
 ## Linky k materiálom
 
